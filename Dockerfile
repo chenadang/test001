@@ -1,2 +1,2 @@
-FROMnginx:1.8
-RUNmkdir/app
+FROM nginx:1.8
+RUN mkdir /app
